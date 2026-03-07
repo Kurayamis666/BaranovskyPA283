@@ -1,0 +1,175 @@
+PS C:\WINDOWS\System32> curl http://localhost:5000/api/requests
+
+Предупреждение безопасности: риск выполнения сценария
+Invoke-WebRequest анализирует содержимое веб-страницы. При анализе страницы может выполняться код сценария на
+веб-странице.
+      РЕКОМЕНДУЕМОЕ ДЕЙСТВИЕ:
+      Используйте параметр -UseBasicParsing, чтобы предотвратить выполнение кода сценария.
+
+      Продолжить?
+
+[Y] Да - Y  [A] Да для всех - A  [N] Нет - N  [L] Нет для всех - L  [S] Приостановить - S  [?] Справка
+(значением по умолчанию является "N"):y
+
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {
+                      "count": 4,
+                      "requests": [
+                        {
+                          "car_model": "Hyundai Avante (CN7)",
+                          "car_type": "\u041b\u0435\u0433\u043a\u043e\u0432\u0430\u044f",
+                          "client_name": "\u0415\u043b\u0438\u0441\u0...
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 2763
+                    Content-Type: application/json
+                    Date: Sat, 07 Mar 2026 02:51:21 GMT
+                    Server: Werkzeug/3.1.6 Python/3.14.3
+
+                    {
+                      "count": 4,
+                      "requests": [
+                     ...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 2763], [Content-Type, application/json], [Date, Sat, 07 Mar
+                    2026 02:51:21 GMT]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 2763
+
+
+
+PS C:\WINDOWS\System32> curl http://localhost:5000/api/users
+
+Предупреждение безопасности: риск выполнения сценария
+Invoke-WebRequest анализирует содержимое веб-страницы. При анализе страницы может выполняться код сценария на
+веб-странице.
+      РЕКОМЕНДУЕМОЕ ДЕЙСТВИЕ:
+      Используйте параметр -UseBasicParsing, чтобы предотвратить выполнение кода сценария.
+
+      Продолжить?
+
+[Y] Да - Y  [A] Да для всех - A  [N] Нет - N  [L] Нет для всех - L  [S] Приостановить - S  [?] Справка
+(значением по умолчанию является "N"):y
+
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {
+                      "count": 10,
+                      "success": true,
+                      "users": [
+                        {
+                          "fio": "\u0411\u0435\u043b\u043e\u0432 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440
+                     \u0414\u0430\u0432\u0438\u0434\u043e\u0432\u0...
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 3148
+                    Content-Type: application/json
+                    Date: Sat, 07 Mar 2026 02:51:47 GMT
+                    Server: Werkzeug/3.1.6 Python/3.14.3
+
+                    {
+                      "count": 10,
+                      "success": tru...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 3148], [Content-Type, application/json], [Date, Sat, 07 Mar
+                    2026 02:51:47 GMT]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 3148
+
+
+
+PS C:\WINDOWS\System32> curl http://localhost:5000/api/stats
+
+Предупреждение безопасности: риск выполнения сценария
+Invoke-WebRequest анализирует содержимое веб-страницы. При анализе страницы может выполняться код сценария на
+веб-странице.
+      РЕКОМЕНДУЕМОЕ ДЕЙСТВИЕ:
+      Используйте параметр -UseBasicParsing, чтобы предотвратить выполнение кода сценария.
+
+      Продолжить?
+
+[Y] Да - Y  [A] Да для всех - A  [N] Нет - N  [L] Нет для всех - L  [S] Приостановить - S  [?] Справка
+(значением по умолчанию является "N"):y
+
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {
+                      "stats": {
+                        "avg_repair_days": 0,
+                        "by_status": {
+                          "\u0417\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430": 1,
+                          "\u041d\u043e\u0432\u0430\u044f \u0437\u0430\u044f\u0432\u043a\u043...
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 262
+                    Content-Type: application/json
+                    Date: Sat, 07 Mar 2026 02:51:56 GMT
+                    Server: Werkzeug/3.1.6 Python/3.14.3
+
+                    {
+                      "stats": {
+                        "avg_repair_day...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 262], [Content-Type, application/json], [Date, Sat, 07 Mar 2
+                    026 02:51:56 GMT]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 262
+
+
+
+PS C:\WINDOWS\System32> $response = Invoke-RestMethod -Uri http://localhost:5000/api/requests
+PS C:\WINDOWS\System32> $response.requests | Format-Table car_model, car_type, client_name
+
+car_model            car_type client_name
+---------            -------- -----------
+Hyundai Avante (CN7) Легковая Елисеева Юлиана Алексеевна
+Hyundai Avante (CN7) Легковая Никифорова Алиса Тимофеевна
+543                  Легковая Елисеева Юлиана Алексеевна
+341                  Легковая Елисеева Юлиана Алексеевна
+
+
+PS C:\WINDOWS\System32> curl -UseBasicParsing http://localhost:5000/api/requests/1
+
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {
+                      "request": {
+                        "car_model": "Hyundai Avante (CN7)",
+                        "car_type": "\u041b\u0435\u0433\u043a\u043e\u0432\u0430\u044f",
+                        "client_name": "\u0415\u043b\u0438\u0441\u0435\u0435\u0432\u0430 \u042...
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 726
+                    Content-Type: application/json
+                    Date: Sat, 07 Mar 2026 02:54:04 GMT
+                    Server: Werkzeug/3.1.6 Python/3.14.3
+
+                    {
+                      "request": {
+                        "car_model": ...
+Forms             :
+Headers           : {[Connection, close], [Content-Length, 726], [Content-Type, application/json], [Date, Sat, 07 Mar 2
+                    026 02:54:04 GMT]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        :
+RawContentLength  : 726
+
+
+
+PS C:\WINDOWS\System32>

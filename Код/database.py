@@ -8,8 +8,15 @@ DATABASE_PATH = Path(__file__).parent / 'data' / 'auto_service.db'
 
 def get_connection():
     """Получить соединение с базой данных."""
-    # ✅ Автоматически создаём папку, если нет
-    DATABASE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    
+    # ✅ ДОБАВЬТЕ ЭТИ СТРОКИ ДЛЯ ОТЛАДКИ:
+    import sys
+    print(f"\n=== ОТЛАДКА БАЗЫ ДАННЫХ ===", file=sys.stderr)
+    print(f"Script path: {__file__}", file=sys.stderr)
+    print(f"DATABASE_PATH: {DATABASE_PATH}", file=sys.stderr)
+    print(f"Absolute path: {DATABASE_PATH.absolute()}", file=sys.stderr)
+    print(f"File exists: {DATABASE_PATH.exists()}", file=sys.stderr)
+    print(f"==============================\n", file=sys.stderr)
     
     connection = sqlite3.connect(DATABASE_PATH)
     connection.row_factory = sqlite3.Row

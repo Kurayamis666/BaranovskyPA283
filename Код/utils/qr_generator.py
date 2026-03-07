@@ -1,6 +1,7 @@
 # utils/qr_generator.py
 """Модуль генерации QR-кодов для опросов качества."""
 import qrcode
+from PIL import Image
 from pathlib import Path
 from database import get_connection
 

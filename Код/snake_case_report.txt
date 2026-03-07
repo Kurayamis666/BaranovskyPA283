@@ -1,0 +1,2475 @@
+ОТЧЁТ: Нарушения snake_case
+======================================================================
+
+Файл: get-pip.py
+Строка: 279
+Тип: variable
+Было: CzNYZI9c
+Стало: cz_n_y_z_i9c
+----------------------------------------
+Файл: get-pip.py
+Строка: 534
+Тип: variable
+Было: IvhoMYf7Vby8w
+Стало: ivho_m_yf7_vby8w
+----------------------------------------
+Файл: get-pip.py
+Строка: 765
+Тип: variable
+Было: Judd_
+Стало: judd_
+----------------------------------------
+Файл: get-pip.py
+Строка: 802
+Тип: variable
+Было: EfX9EL
+Стало: ef_x9_e_l
+----------------------------------------
+Файл: get-pip.py
+Строка: 1414
+Тип: variable
+Было: J4kU1e
+Стало: j4k_u1e
+----------------------------------------
+Файл: get-pip.py
+Строка: 1425
+Тип: variable
+Было: H0vlTqO
+Стало: h0vl_tq_o
+----------------------------------------
+Файл: get-pip.py
+Строка: 1574
+Тип: variable
+Было: CtKpxR
+Стало: ct_kpx_r
+----------------------------------------
+Файл: get-pip.py
+Строка: 1587
+Тип: variable
+Было: A_pfZ
+Стало: a_pf_z
+----------------------------------------
+Файл: get-pip.py
+Строка: 1864
+Тип: variable
+Было: X29AlO
+Стало: x29_al_o
+----------------------------------------
+Файл: get-pip.py
+Строка: 1899
+Тип: variable
+Было: Zc
+Стало: zc
+----------------------------------------
+Файл: get-pip.py
+Строка: 2568
+Тип: variable
+Было: Bl
+Стало: bl
+----------------------------------------
+Файл: get-pip.py
+Строка: 2926
+Тип: variable
+Было: WkVU
+Стало: wk_v_u
+----------------------------------------
+Файл: get-pip.py
+Строка: 3149
+Тип: variable
+Было: XqyLhyWBI
+Стало: xqy_lhy_w_b_i
+----------------------------------------
+Файл: get-pip.py
+Строка: 3176
+Тип: variable
+Было: VfuwS
+Стало: vfuw_s
+----------------------------------------
+Файл: get-pip.py
+Строка: 3239
+Тип: variable
+Было: Ze
+Стало: ze
+----------------------------------------
+Файл: get-pip.py
+Строка: 3739
+Тип: variable
+Было: Df
+Стало: df
+----------------------------------------
+Файл: get-pip.py
+Строка: 3806
+Тип: variable
+Было: Awm
+Стало: awm
+----------------------------------------
+Файл: get-pip.py
+Строка: 3994
+Тип: variable
+Было: DgvgY
+Стало: dgvg_y
+----------------------------------------
+Файл: get-pip.py
+Строка: 4056
+Тип: variable
+Было: GkIFTOhmmXEG
+Стало: gk_i_f_t_ohmm_x_e_g
+----------------------------------------
+Файл: get-pip.py
+Строка: 4382
+Тип: variable
+Было: ZlR
+Стало: zl_r
+----------------------------------------
+Файл: get-pip.py
+Строка: 4702
+Тип: variable
+Было: CxvG5W
+Стало: cxv_g5_w
+----------------------------------------
+Файл: get-pip.py
+Строка: 4726
+Тип: variable
+Было: XkeUNel
+Стало: xke_u_nel
+----------------------------------------
+Файл: get-pip.py
+Строка: 4738
+Тип: variable
+Было: A4gA
+Стало: a4g_a
+----------------------------------------
+Файл: get-pip.py
+Строка: 4771
+Тип: variable
+Было: Pn
+Стало: pn
+----------------------------------------
+Файл: get-pip.py
+Строка: 4973
+Тип: variable
+Было: MnEQc
+Стало: mn_e_qc
+----------------------------------------
+Файл: get-pip.py
+Строка: 5077
+Тип: variable
+Было: JiMymX
+Стало: ji_mym_x
+----------------------------------------
+Файл: get-pip.py
+Строка: 5551
+Тип: variable
+Было: Ko
+Стало: ko
+----------------------------------------
+Файл: get-pip.py
+Строка: 6491
+Тип: variable
+Было: Cw0qUY_y
+Стало: cw0q_u_y_y
+----------------------------------------
+Файл: get-pip.py
+Строка: 6640
+Тип: variable
+Было: CnBSd8UcQU
+Стало: cn_b_sd8_uc_q_u
+----------------------------------------
+Файл: get-pip.py
+Строка: 6754
+Тип: variable
+Было: Gcei6WZSY2
+Стало: gcei6_w_z_s_y2
+----------------------------------------
+Файл: get-pip.py
+Строка: 7112
+Тип: variable
+Было: X2UwIzD_YdUz
+Стало: x2_uw_iz_d__yd_uz
+----------------------------------------
+Файл: get-pip.py
+Строка: 7180
+Тип: variable
+Было: AjQIf
+Стало: aj_q_if
+----------------------------------------
+Файл: get-pip.py
+Строка: 7478
+Тип: variable
+Было: IrrIl
+Стало: irr_il
+----------------------------------------
+Файл: get-pip.py
+Строка: 8096
+Тип: variable
+Было: Us
+Стало: us
+----------------------------------------
+Файл: get-pip.py
+Строка: 8198
+Тип: variable
+Было: Cj
+Стало: cj
+----------------------------------------
+Файл: get-pip.py
+Строка: 8347
+Тип: variable
+Было: Ag0F
+Стало: ag0_f
+----------------------------------------
+Файл: get-pip.py
+Строка: 8436
+Тип: variable
+Было: Ut4zuRuAslU5bivnRb2
+Стало: ut4zu_ru_asl_u5bivn_rb2
+----------------------------------------
+Файл: get-pip.py
+Строка: 8511
+Тип: variable
+Было: RkWz
+Стало: rk_wz
+----------------------------------------
+Файл: get-pip.py
+Строка: 8903
+Тип: variable
+Было: Rq
+Стало: rq
+----------------------------------------
+Файл: get-pip.py
+Строка: 9429
+Тип: variable
+Было: PlUlYE
+Стало: pl_ul_y_e
+----------------------------------------
+Файл: get-pip.py
+Строка: 9522
+Тип: variable
+Было: Wc
+Стало: wc
+----------------------------------------
+Файл: get-pip.py
+Строка: 9591
+Тип: variable
+Было: Bg
+Стало: bg
+----------------------------------------
+Файл: get-pip.py
+Строка: 9762
+Тип: variable
+Было: OcWfDZipNZAA
+Стало: oc_wf_d_zip_n_z_a_a
+----------------------------------------
+Файл: get-pip.py
+Строка: 9895
+Тип: variable
+Было: YrdR
+Стало: yrd_r
+----------------------------------------
+Файл: get-pip.py
+Строка: 9903
+Тип: variable
+Было: Di5
+Стало: di5
+----------------------------------------
+Файл: get-pip.py
+Строка: 10763
+Тип: variable
+Было: Vk5
+Стало: vk5
+----------------------------------------
+Файл: get-pip.py
+Строка: 10904
+Тип: variable
+Было: Lj
+Стало: lj
+----------------------------------------
+Файл: get-pip.py
+Строка: 10986
+Тип: variable
+Было: OmtGo08W
+Стало: omt_go08_w
+----------------------------------------
+Файл: get-pip.py
+Строка: 11122
+Тип: variable
+Было: S8lyX
+Стало: s8ly_x
+----------------------------------------
+Файл: get-pip.py
+Строка: 11138
+Тип: variable
+Было: RlHj
+Стало: rl_hj
+----------------------------------------
+Файл: get-pip.py
+Строка: 11315
+Тип: variable
+Было: Ca3
+Стало: ca3
+----------------------------------------
+Файл: get-pip.py
+Строка: 11522
+Тип: variable
+Было: DrFqQ
+Стало: dr_fq_q
+----------------------------------------
+Файл: get-pip.py
+Строка: 11559
+Тип: variable
+Было: GsGQ7Q6
+Стало: gs_g_q7_q6
+----------------------------------------
+Файл: get-pip.py
+Строка: 11607
+Тип: variable
+Было: Tt
+Стало: tt
+----------------------------------------
+Файл: get-pip.py
+Строка: 11761
+Тип: variable
+Было: ZdH
+Стало: zd_h
+----------------------------------------
+Файл: get-pip.py
+Строка: 11787
+Тип: variable
+Было: B2TWRoQTX
+Стало: b2_t_w_ro_q_t_x
+----------------------------------------
+Файл: get-pip.py
+Строка: 11981
+Тип: variable
+Было: MrgEab
+Стало: mrg_eab
+----------------------------------------
+Файл: get-pip.py
+Строка: 12220
+Тип: variable
+Было: Lwd
+Стало: lwd
+----------------------------------------
+Файл: get-pip.py
+Строка: 12434
+Тип: variable
+Было: KudYp
+Стало: kud_yp
+----------------------------------------
+Файл: get-pip.py
+Строка: 12540
+Тип: variable
+Было: LmAT
+Стало: lm_a_t
+----------------------------------------
+Файл: get-pip.py
+Строка: 12621
+Тип: variable
+Было: ZaT
+Стало: za_t
+----------------------------------------
+Файл: get-pip.py
+Строка: 12668
+Тип: variable
+Было: GuK9Kqko0
+Стало: gu_k9_kqko0
+----------------------------------------
+Файл: get-pip.py
+Строка: 12720
+Тип: variable
+Было: MiWF6L
+Стало: mi_w_f6_l
+----------------------------------------
+Файл: get-pip.py
+Строка: 12740
+Тип: variable
+Было: ShHpg
+Стало: sh_hpg
+----------------------------------------
+Файл: get-pip.py
+Строка: 12889
+Тип: variable
+Было: JdgXvmT
+Стало: jdg_xvm_t
+----------------------------------------
+Файл: get-pip.py
+Строка: 13482
+Тип: variable
+Было: Db
+Стало: db
+----------------------------------------
+Файл: get-pip.py
+Строка: 13591
+Тип: variable
+Было: OgK
+Стало: og_k
+----------------------------------------
+Файл: get-pip.py
+Строка: 13667
+Тип: variable
+Было: Uln
+Стало: uln
+----------------------------------------
+Файл: get-pip.py
+Строка: 13769
+Тип: variable
+Было: K4UNax
+Стало: k4_u_nax
+----------------------------------------
+Файл: get-pip.py
+Строка: 13857
+Тип: variable
+Было: U1w
+Стало: u1w
+----------------------------------------
+Файл: get-pip.py
+Строка: 14291
+Тип: variable
+Было: MjstqNgX
+Стало: mjstq_ng_x
+----------------------------------------
+Файл: get-pip.py
+Строка: 14324
+Тип: variable
+Было: R7e
+Стало: r7e
+----------------------------------------
+Файл: get-pip.py
+Строка: 14695
+Тип: variable
+Было: Nv
+Стало: nv
+----------------------------------------
+Файл: get-pip.py
+Строка: 14739
+Тип: variable
+Было: Iq
+Стало: iq
+----------------------------------------
+Файл: get-pip.py
+Строка: 14787
+Тип: variable
+Было: SsIS
+Стало: ss_i_s
+----------------------------------------
+Файл: get-pip.py
+Строка: 15167
+Тип: variable
+Было: Qw
+Стало: qw
+----------------------------------------
+Файл: get-pip.py
+Строка: 15301
+Тип: variable
+Было: OqOn
+Стало: oq_on
+----------------------------------------
+Файл: get-pip.py
+Строка: 15391
+Тип: variable
+Было: HhhzNV7
+Стало: hhhz_n_v7
+----------------------------------------
+Файл: get-pip.py
+Строка: 15561
+Тип: variable
+Было: LkVBHReAIevzbh
+Стало: lk_v_b_h_re_a_ievzbh
+----------------------------------------
+Файл: get-pip.py
+Строка: 15798
+Тип: variable
+Было: Ss65
+Стало: ss65
+----------------------------------------
+Файл: get-pip.py
+Строка: 15908
+Тип: variable
+Было: Wn1E6
+Стало: wn1_e6
+----------------------------------------
+Файл: get-pip.py
+Строка: 16738
+Тип: variable
+Было: Am
+Стало: am
+----------------------------------------
+Файл: get-pip.py
+Строка: 16790
+Тип: variable
+Было: M9Pzb
+Стало: m9_pzb
+----------------------------------------
+Файл: get-pip.py
+Строка: 16826
+Тип: variable
+Было: UufX
+Стало: uuf_x
+----------------------------------------
+Файл: get-pip.py
+Строка: 17259
+Тип: variable
+Было: Xio2Tm
+Стало: xio2_tm
+----------------------------------------
+Файл: get-pip.py
+Строка: 17329
+Тип: variable
+Было: Y3w
+Стало: y3w
+----------------------------------------
+Файл: get-pip.py
+Строка: 17345
+Тип: variable
+Было: HpOaJE
+Стало: hp_oa_j_e
+----------------------------------------
+Файл: get-pip.py
+Строка: 17536
+Тип: variable
+Было: Yj3I0eU
+Стало: yj3_i0e_u
+----------------------------------------
+Файл: get-pip.py
+Строка: 17656
+Тип: variable
+Было: OrH5KIy
+Стало: or_h5_k_iy
+----------------------------------------
+Файл: get-pip.py
+Строка: 17709
+Тип: variable
+Было: Zam
+Стало: zam
+----------------------------------------
+Файл: get-pip.py
+Строка: 18370
+Тип: variable
+Было: EkFj
+Стало: ek_fj
+----------------------------------------
+Файл: get-pip.py
+Строка: 18377
+Тип: variable
+Было: UhjVi
+Стало: uhj_vi
+----------------------------------------
+Файл: get-pip.py
+Строка: 18479
+Тип: variable
+Было: SaF
+Стало: sa_f
+----------------------------------------
+Файл: get-pip.py
+Строка: 18529
+Тип: variable
+Было: D9lS
+Стало: d9l_s
+----------------------------------------
+Файл: get-pip.py
+Строка: 18577
+Тип: variable
+Было: R4fy
+Стало: r4fy
+----------------------------------------
+Файл: get-pip.py
+Строка: 18823
+Тип: variable
+Было: FoU0dH
+Стало: fo_u0d_h
+----------------------------------------
+Файл: get-pip.py
+Строка: 19067
+Тип: variable
+Было: V_g
+Стало: v_g
+----------------------------------------
+Файл: get-pip.py
+Строка: 19166
+Тип: variable
+Было: Cg
+Стало: cg
+----------------------------------------
+Файл: get-pip.py
+Строка: 19197
+Тип: variable
+Было: TudN
+Стало: tud_n
+----------------------------------------
+Файл: get-pip.py
+Строка: 19237
+Тип: variable
+Было: L0bIYPyet8l6
+Стало: l0b_i_y_pyet8l6
+----------------------------------------
+Файл: get-pip.py
+Строка: 19301
+Тип: variable
+Было: Xdlu
+Стало: xdlu
+----------------------------------------
+Файл: get-pip.py
+Строка: 19532
+Тип: variable
+Было: X9WMd0iVx
+Стало: x9_w_md0i_vx
+----------------------------------------
+Файл: get-pip.py
+Строка: 19737
+Тип: variable
+Было: S4FPcKui
+Стало: s4_f_pc_kui
+----------------------------------------
+Файл: get-pip.py
+Строка: 19901
+Тип: variable
+Было: Tl
+Стало: tl
+----------------------------------------
+Файл: get-pip.py
+Строка: 19935
+Тип: variable
+Было: ByOTMriq
+Стало: by_o_t_mriq
+----------------------------------------
+Файл: get-pip.py
+Строка: 19952
+Тип: variable
+Было: YopwaJcz
+Стало: yopwa_jcz
+----------------------------------------
+Файл: get-pip.py
+Строка: 20194
+Тип: variable
+Было: WdhPylbM2B
+Стало: wdh_pylb_m2_b
+----------------------------------------
+Файл: get-pip.py
+Строка: 20590
+Тип: variable
+Было: Ey
+Стало: ey
+----------------------------------------
+Файл: get-pip.py
+Строка: 20770
+Тип: variable
+Было: Bxk5Z
+Стало: bxk5_z
+----------------------------------------
+Файл: get-pip.py
+Строка: 20839
+Тип: variable
+Было: YzIt8_uFED6WG
+Стало: yz_it8_u_f_e_d6_w_g
+----------------------------------------
+Файл: get-pip.py
+Строка: 21313
+Тип: variable
+Было: WkQ
+Стало: wk_q
+----------------------------------------
+Файл: get-pip.py
+Строка: 21494
+Тип: variable
+Было: Sbr
+Стало: sbr
+----------------------------------------
+Файл: get-pip.py
+Строка: 21907
+Тип: variable
+Было: Pw
+Стало: pw
+----------------------------------------
+Файл: get-pip.py
+Строка: 21938
+Тип: variable
+Было: Uqg
+Стало: uqg
+----------------------------------------
+Файл: get-pip.py
+Строка: 22081
+Тип: variable
+Было: Zsa
+Стало: zsa
+----------------------------------------
+Файл: get-pip.py
+Строка: 22123
+Тип: variable
+Было: Ja_KdjeZzEIca
+Стало: ja__kdje_zz_e_ica
+----------------------------------------
+Файл: get-pip.py
+Строка: 22305
+Тип: variable
+Было: Sx0
+Стало: sx0
+----------------------------------------
+Файл: get-pip.py
+Строка: 22349
+Тип: variable
+Было: Bx13AGJ
+Стало: bx13_a_g_j
+----------------------------------------
+Файл: get-pip.py
+Строка: 22553
+Тип: variable
+Было: Ph
+Стало: ph
+----------------------------------------
+Файл: get-pip.py
+Строка: 22825
+Тип: variable
+Было: Hd
+Стало: hd
+----------------------------------------
+Файл: get-pip.py
+Строка: 23383
+Тип: variable
+Было: Xoz2QFG
+Стало: xoz2_q_f_g
+----------------------------------------
+Файл: get-pip.py
+Строка: 23502
+Тип: variable
+Было: KcIjqMP
+Стало: kc_ijq_m_p
+----------------------------------------
+Файл: get-pip.py
+Строка: 23568
+Тип: variable
+Было: Kg
+Стало: kg
+----------------------------------------
+Файл: get-pip.py
+Строка: 24795
+Тип: variable
+Было: Un
+Стало: un
+----------------------------------------
+Файл: get-pip.py
+Строка: 24925
+Тип: variable
+Было: Jjw3
+Стало: jjw3
+----------------------------------------
+Файл: get-pip.py
+Строка: 24996
+Тип: variable
+Было: HqQqW
+Стало: hq_qq_w
+----------------------------------------
+Файл: get-pip.py
+Строка: 25113
+Тип: variable
+Было: FguHj
+Стало: fgu_hj
+----------------------------------------
+Файл: get-pip.py
+Строка: 25144
+Тип: variable
+Было: Ro
+Стало: ro
+----------------------------------------
+Файл: get-pip.py
+Строка: 25343
+Тип: variable
+Было: HeHD
+Стало: he_h_d
+----------------------------------------
+Файл: get-pip.py
+Строка: 25444
+Тип: variable
+Было: Ad
+Стало: ad
+----------------------------------------
+Файл: get-pip.py
+Строка: 25478
+Тип: variable
+Было: ZcVbc1xF
+Стало: zc_vbc1x_f
+----------------------------------------
+Файл: get-pip.py
+Строка: 25503
+Тип: variable
+Было: JbmGWHqQ
+Стало: jbm_g_w_hq_q
+----------------------------------------
+Файл: get-pip.py
+Строка: 25534
+Тип: variable
+Было: EwOu
+Стало: ew_ou
+----------------------------------------
+Файл: get-pip.py
+Строка: 25574
+Тип: variable
+Было: Wd7
+Стало: wd7
+----------------------------------------
+Файл: get-pip.py
+Строка: 25855
+Тип: variable
+Было: OhK
+Стало: oh_k
+----------------------------------------
+Файл: get-pip.py
+Строка: 26039
+Тип: variable
+Было: MvXQp7
+Стало: mv_x_qp7
+----------------------------------------
+Файл: get-pip.py
+Строка: 26132
+Тип: variable
+Было: Xb
+Стало: xb
+----------------------------------------
+Файл: get-pip.py
+Строка: 26217
+Тип: variable
+Было: GhZj
+Стало: gh_zj
+----------------------------------------
+Файл: get-pip.py
+Строка: 26497
+Тип: variable
+Было: Qxi
+Стало: qxi
+----------------------------------------
+Файл: get-pip.py
+Строка: 26511
+Тип: variable
+Было: ZaqC
+Стало: zaq_c
+----------------------------------------
+Файл: get-pip.py
+Строка: 26991
+Тип: variable
+Было: X0000000000q
+Стало: x0000000000q
+----------------------------------------
+Файл: get-pip.py
+Строка: 27076
+Тип: variable
+Было: T0000000000q
+Стало: t0000000000q
+----------------------------------------
+Файл: get-pip.py
+Строка: 27130
+Тип: variable
+Было: TxQ3j1Uv
+Стало: tx_q3j1_uv
+----------------------------------------
+Файл: get-pip.py
+Строка: 27274
+Тип: variable
+Было: WyXL9RL6T0000000000q
+Стало: wy_x_l9_r_l6_t0000000000q
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\ansi.py
+Строка: 37
+Тип: function
+Было: UP
+Стало: u_p
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\ansi.py
+Строка: 39
+Тип: function
+Было: DOWN
+Стало: d_o_w_n
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\ansi.py
+Строка: 41
+Тип: function
+Было: FORWARD
+Стало: f_o_r_w_a_r_d
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\ansi.py
+Строка: 43
+Тип: function
+Было: BACK
+Стало: b_a_c_k
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\ansi.py
+Строка: 45
+Тип: function
+Было: POS
+Стало: p_o_s
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\ansi.py
+Строка: 99
+Тип: variable
+Было: Fore
+Стало: fore
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\ansi.py
+Строка: 100
+Тип: variable
+Было: Back
+Стало: back
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\ansi.py
+Строка: 101
+Тип: variable
+Было: Style
+Стало: style
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\ansi.py
+Строка: 102
+Тип: variable
+Было: Cursor
+Стало: cursor
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\win32.py
+Строка: 16
+Тип: variable
+Было: SetConsoleTextAttribute
+Стало: set_console_text_attribute
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\win32.py
+Строка: 118
+Тип: function
+Было: GetConsoleScreenBufferInfo
+Стало: get_console_screen_buffer_info
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\win32.py
+Строка: 125
+Тип: function
+Было: SetConsoleTextAttribute
+Стало: set_console_text_attribute
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\win32.py
+Строка: 129
+Тип: function
+Было: SetConsoleCursorPosition
+Стало: set_console_cursor_position
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\win32.py
+Строка: 147
+Тип: function
+Было: FillConsoleOutputCharacter
+Стало: fill_console_output_character
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\win32.py
+Строка: 157
+Тип: function
+Было: FillConsoleOutputAttribute
+Стало: fill_console_output_attribute
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\win32.py
+Строка: 167
+Тип: function
+Было: SetConsoleTitle
+Стало: set_console_title
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\win32.py
+Строка: 170
+Тип: function
+Было: GetConsoleMode
+Стало: get_console_mode
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\win32.py
+Строка: 177
+Тип: function
+Было: SetConsoleMode
+Стало: set_console_mode
+----------------------------------------
+Файл: .venv\Lib\site-packages\qrcode\main.py
+Строка: 17
+Тип: variable
+Было: ModulesType
+Стало: modules_type
+----------------------------------------
+Файл: .venv\Lib\site-packages\qrcode\main.py
+Строка: 70
+Тип: variable
+Было: GenericImage
+Стало: generic_image
+----------------------------------------
+Файл: .venv\Lib\site-packages\qrcode\main.py
+Строка: 71
+Тип: variable
+Было: GenericImageLocal
+Стало: generic_image_local
+----------------------------------------
+Файл: .venv\Lib\site-packages\qrcode\util.py
+Строка: 114
+Тип: function
+Было: BCH_type_info
+Стало: b_c_h_type_info
+----------------------------------------
+Файл: .venv\Lib\site-packages\qrcode\util.py
+Строка: 122
+Тип: function
+Было: BCH_type_number
+Стало: b_c_h_type_number
+----------------------------------------
+Файл: .venv\Lib\site-packages\qrcode\util.py
+Строка: 129
+Тип: function
+Было: BCH_digit
+Стало: b_c_h_digit
+----------------------------------------
+Файл: .venv\Lib\site-packages\qrcode\compat\png.py
+Строка: 2
+Тип: variable
+Было: PngWriter
+Стало: png_writer
+----------------------------------------
+Файл: .venv\Lib\site-packages\qrcode\image\base.py
+Строка: 10
+Тип: variable
+Было: DrawerAliases
+Стало: drawer_aliases
+----------------------------------------
+Файл: .venv\Lib\site-packages\qrcode\image\pure.py
+Строка: 56
+Тип: variable
+Было: PymagingImage
+Стало: pymaging_image
+----------------------------------------
+Файл: .venv\Lib\site-packages\qrcode\tests\test_qrcode_pil.py
+Строка: 9
+Тип: variable
+Было: Image
+Стало: image
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\configuration.py
+Строка: 32
+Тип: variable
+Было: RawConfigParser
+Стало: raw_config_parser
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\configuration.py
+Строка: 33
+Тип: variable
+Было: Kind
+Стало: kind
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\pyproject.py
+Строка: 26
+Тип: variable
+Было: BuildSystemDetails
+Стало: build_system_details
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\wheel_builder.py
+Строка: 31
+Тип: variable
+Было: BuildResult
+Стало: build_result
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\cachecontrol\wrapper.py
+Строка: 20
+Тип: function
+Было: CacheControl
+Стало: cache_control
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\distlib\compat.py
+Строка: 273
+Тип: variable
+Было: ZipFile
+Стало: zip_file
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\distlib\util.py
+Строка: 1372
+Тип: function
+Было: ETA
+Стало: e_t_a
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\distro\distro.py
+Строка: 56
+Тип: variable
+Было: TypedDict
+Стало: typed_dict
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\idna\compat.py
+Строка: 6
+Тип: function
+Было: ToASCII
+Стало: to_a_s_c_i_i
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\idna\compat.py
+Строка: 10
+Тип: function
+Было: ToUnicode
+Стало: to_unicode
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\msgpack\exceptions.py
+Строка: 27
+Тип: variable
+Было: UnpackValueError
+Стало: unpack_value_error
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\msgpack\exceptions.py
+Строка: 46
+Тип: variable
+Было: PackException
+Стало: pack_exception
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\msgpack\exceptions.py
+Строка: 47
+Тип: variable
+Было: PackValueError
+Стало: pack_value_error
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\msgpack\exceptions.py
+Строка: 48
+Тип: variable
+Было: PackOverflowError
+Стало: pack_overflow_error
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\markers.py
+Строка: 28
+Тип: variable
+Было: Operator
+Стало: operator
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\markers.py
+Строка: 29
+Тип: variable
+Было: EvaluateContext
+Стало: evaluate_context
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\metadata.py
+Строка: 28
+Тип: variable
+Было: ExceptionGroup
+Стало: exception_group
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\specifiers.py
+Строка: 21
+Тип: variable
+Было: UnparsedVersion
+Стало: unparsed_version
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\specifiers.py
+Строка: 22
+Тип: variable
+Было: UnparsedVersionVar
+Стало: unparsed_version_var
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\specifiers.py
+Строка: 23
+Тип: variable
+Было: CallableOperator
+Стало: callable_operator
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\tags.py
+Строка: 27
+Тип: variable
+Было: PythonVersion
+Стало: python_version
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\tags.py
+Строка: 28
+Тип: variable
+Было: AppleVersion
+Стало: apple_version
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\utils.py
+Строка: 14
+Тип: variable
+Было: BuildTag
+Стало: build_tag
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\utils.py
+Строка: 15
+Тип: variable
+Было: NormalizedName
+Стало: normalized_name
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\version.py
+Строка: 20
+Тип: variable
+Было: LocalType
+Стало: local_type
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\version.py
+Строка: 22
+Тип: variable
+Было: CmpPrePostDevType
+Стало: cmp_pre_post_dev_type
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\version.py
+Строка: 23
+Тип: variable
+Было: CmpLocalType
+Стало: cmp_local_type
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\version.py
+Строка: 27
+Тип: variable
+Было: CmpKey
+Стало: cmp_key
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\version.py
+Строка: 35
+Тип: variable
+Было: VersionComparisonMethod
+Стало: version_comparison_method
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\_elffile.py
+Строка: 29
+Тип: variable
+Было: Lsb
+Стало: lsb
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\_elffile.py
+Строка: 30
+Тип: variable
+Было: Msb
+Стало: msb
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\_elffile.py
+Строка: 36
+Тип: variable
+Было: Arm
+Стало: arm
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\_parser.py
+Строка: 44
+Тип: variable
+Было: MarkerVar
+Стало: marker_var
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\_parser.py
+Строка: 45
+Тип: variable
+Было: MarkerItem
+Стало: marker_item
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\_parser.py
+Строка: 46
+Тип: variable
+Было: MarkerAtom
+Стало: marker_atom
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\_parser.py
+Строка: 47
+Тип: variable
+Было: MarkerList
+Стало: marker_list
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\_structures.py
+Строка: 32
+Тип: variable
+Было: Infinity
+Стало: infinity
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\_structures.py
+Строка: 61
+Тип: variable
+Было: NegativeInfinity
+Стало: negative_infinity
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py
+Строка: 1320
+Тип: variable
+Было: AvailableDistributions
+Стало: available_distributions
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\platformdirs\__init__.py
+Строка: 47
+Тип: variable
+Было: PlatformDirs
+Стало: platform_dirs
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\platformdirs\__init__.py
+Строка: 49
+Тип: variable
+Было: PlatformDirs
+Стало: platform_dirs
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\platformdirs\__init__.py
+Строка: 50
+Тип: variable
+Было: AppDirs
+Стало: app_dirs
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\token.py
+Строка: 55
+Тип: variable
+Было: Token
+Стало: token
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\token.py
+Строка: 58
+Тип: variable
+Было: Text
+Стало: text
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\token.py
+Строка: 59
+Тип: variable
+Было: Whitespace
+Стало: whitespace
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\token.py
+Строка: 60
+Тип: variable
+Было: Escape
+Стало: escape
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\token.py
+Строка: 61
+Тип: variable
+Было: Error
+Стало: error
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\token.py
+Строка: 63
+Тип: variable
+Было: Other
+Стало: other
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\token.py
+Строка: 66
+Тип: variable
+Было: Keyword
+Стало: keyword
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\token.py
+Строка: 67
+Тип: variable
+Было: Name
+Стало: name
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\token.py
+Строка: 68
+Тип: variable
+Было: Literal
+Стало: literal
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\token.py
+Строка: 69
+Тип: variable
+Было: String
+Стало: string
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\token.py
+Строка: 70
+Тип: variable
+Было: Number
+Стало: number
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\token.py
+Строка: 71
+Тип: variable
+Было: Punctuation
+Стало: punctuation
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\token.py
+Строка: 72
+Тип: variable
+Было: Operator
+Стало: operator
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\token.py
+Строка: 73
+Тип: variable
+Было: Comment
+Стало: comment
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\token.py
+Строка: 76
+Тип: variable
+Было: Generic
+Стало: generic
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 14
+Тип: variable
+Было: Cc
+Стало: cc
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 16
+Тип: variable
+Было: Cf
+Стало: cf
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 18
+Тип: variable
+Было: Cn
+Стало: cn
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 20
+Тип: variable
+Было: Co
+Стало: co
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 22
+Тип: variable
+Было: Cs
+Стало: cs
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 24
+Тип: variable
+Было: Ll
+Стало: ll
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 26
+Тип: variable
+Было: Lm
+Стало: lm
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 28
+Тип: variable
+Было: Lo
+Стало: lo
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 30
+Тип: variable
+Было: Lt
+Стало: lt
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 32
+Тип: variable
+Было: Lu
+Стало: lu
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 34
+Тип: variable
+Было: Mc
+Стало: mc
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 36
+Тип: variable
+Было: Me
+Стало: me
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 38
+Тип: variable
+Было: Mn
+Стало: mn
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 40
+Тип: variable
+Было: Nd
+Стало: nd
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 42
+Тип: variable
+Было: Nl
+Стало: nl
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 44
+Тип: variable
+Было: No
+Стало: no
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 46
+Тип: variable
+Было: Pc
+Стало: pc
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 48
+Тип: variable
+Было: Pd
+Стало: pd
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 50
+Тип: variable
+Было: Pe
+Стало: pe
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 52
+Тип: variable
+Было: Pf
+Стало: pf
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 54
+Тип: variable
+Было: Pi
+Стало: pi
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 56
+Тип: variable
+Было: Po
+Стало: po
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 58
+Тип: variable
+Было: Ps
+Стало: ps
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 60
+Тип: variable
+Было: Sc
+Стало: sc
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 62
+Тип: variable
+Было: Sk
+Стало: sk
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 64
+Тип: variable
+Было: Sm
+Стало: sm
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 66
+Тип: variable
+Было: So
+Стало: so
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 68
+Тип: variable
+Было: Zl
+Стало: zl
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 70
+Тип: variable
+Было: Zp
+Стало: zp
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+Строка: 72
+Тип: variable
+Было: Zs
+Стало: zs
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pyproject_hooks\__init__.py
+Строка: 26
+Тип: variable
+Было: BackendInvalid
+Стало: backend_invalid
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\requests\adapters.py
+Строка: 62
+Тип: function
+Было: SOCKSProxyManager
+Стало: s_o_c_k_s_proxy_manager
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\requests\help.py
+Строка: 20
+Тип: variable
+Было: OpenSSL
+Стало: open_s_s_l
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\resolvelib\structs.py
+Строка: 22
+Тип: variable
+Было: Matches
+Стало: matches
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\resolvelib\structs.py
+Строка: 39
+Тип: variable
+Было: RequirementInformation
+Стало: requirement_information
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\resolvelib\structs.py
+Строка: 42
+Тип: variable
+Было: State
+Стало: state
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\resolvelib\structs.py
+Строка: 209
+Тип: variable
+Было: IterableView
+Стало: iterable_view
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\align.py
+Строка: 13
+Тип: variable
+Было: AlignMethod
+Стало: align_method
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\align.py
+Строка: 14
+Тип: variable
+Было: VerticalAlignMethod
+Стало: vertical_align_method
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\console.py
+Строка: 74
+Тип: variable
+Было: HighlighterType
+Стало: highlighter_type
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\console.py
+Строка: 75
+Тип: variable
+Было: JustifyMethod
+Стало: justify_method
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\console.py
+Строка: 76
+Тип: variable
+Было: OverflowMethod
+Стало: overflow_method
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\console.py
+Строка: 273
+Тип: variable
+Было: RenderableType
+Стало: renderable_type
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\console.py
+Строка: 277
+Тип: variable
+Было: RenderResult
+Стало: render_result
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\emoji.py
+Строка: 15
+Тип: variable
+Было: EmojiVariant
+Стало: emoji_variant
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\layout.py
+Строка: 39
+Тип: variable
+Было: RegionMap
+Стало: region_map
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\layout.py
+Строка: 40
+Тип: variable
+Было: RenderMap
+Стало: render_map
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\live_render.py
+Строка: 11
+Тип: variable
+Было: VerticalOverflowMethod
+Стало: vertical_overflow_method
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\padding.py
+Строка: 16
+Тип: variable
+Было: PaddingDimensions
+Стало: padding_dimensions
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\progress.py
+Строка: 54
+Тип: variable
+Было: TaskID
+Стало: task_i_d
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\progress.py
+Строка: 56
+Тип: variable
+Было: ProgressType
+Стало: progress_type
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\progress.py
+Строка: 58
+Тип: variable
+Было: GetTimeCallable
+Стало: get_time_callable
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\prompt.py
+Строка: 7
+Тип: variable
+Было: PromptType
+Стало: prompt_type
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\prompt.py
+Строка: 8
+Тип: variable
+Было: DefaultType
+Стало: default_type
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\repr.py
+Строка: 19
+Тип: variable
+Было: Result
+Стало: result
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\repr.py
+Строка: 20
+Тип: variable
+Было: RichReprResult
+Стало: rich_repr_result
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\segment.py
+Строка: 56
+Тип: variable
+Было: ControlCode
+Стало: control_code
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\style.py
+Строка: 18
+Тип: variable
+Было: StyleType
+Стало: style_type
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\syntax.py
+Строка: 54
+Тип: variable
+Было: TokenType
+Стало: token_type
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\syntax.py
+Строка: 213
+Тип: variable
+Было: SyntaxPosition
+Стало: syntax_position
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\text.py
+Строка: 41
+Тип: variable
+Было: TextType
+Стало: text_type
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\text.py
+Строка: 44
+Тип: variable
+Было: GetStyleCallable
+Стало: get_style_callable
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\tree.py
+Строка: 11
+Тип: variable
+Было: GuideType
+Стало: guide_type
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\_log_render.py
+Строка: 11
+Тип: variable
+Было: FormatTimeCallable
+Стало: format_time_callable
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\_win32_console.py
+Строка: 78
+Тип: function
+Было: GetStdHandle
+Стало: get_std_handle
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\_win32_console.py
+Строка: 95
+Тип: function
+Было: GetConsoleMode
+Стало: get_console_mode
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\_win32_console.py
+Строка: 128
+Тип: function
+Было: FillConsoleOutputCharacter
+Стало: fill_console_output_character
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\_win32_console.py
+Строка: 169
+Тип: function
+Было: FillConsoleOutputAttribute
+Стало: fill_console_output_attribute
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\_win32_console.py
+Строка: 204
+Тип: function
+Было: SetConsoleTextAttribute
+Стало: set_console_text_attribute
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\_win32_console.py
+Строка: 228
+Тип: function
+Было: GetConsoleScreenBufferInfo
+Стало: get_console_screen_buffer_info
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\_win32_console.py
+Строка: 252
+Тип: function
+Было: SetConsoleCursorPosition
+Стало: set_console_cursor_position
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\_win32_console.py
+Строка: 275
+Тип: function
+Было: GetConsoleCursorInfo
+Стало: get_console_cursor_info
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\_win32_console.py
+Строка: 299
+Тип: function
+Было: SetConsoleCursorInfo
+Стало: set_console_cursor_info
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\rich\_win32_console.py
+Строка: 319
+Тип: function
+Было: SetConsoleTitle
+Стало: set_console_title
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\tomli\_types.py
+Строка: 8
+Тип: variable
+Было: ParseFloat
+Стало: parse_float
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\tomli\_types.py
+Строка: 9
+Тип: variable
+Было: Key
+Стало: key
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\tomli\_types.py
+Строка: 10
+Тип: variable
+Было: Pos
+Стало: pos
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\truststore\_macos.py
+Строка: 48
+Тип: variable
+Было: Security
+Стало: security
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\truststore\_macos.py
+Строка: 51
+Тип: variable
+Было: CoreFoundation
+Стало: core_foundation
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\truststore\_macos.py
+Строка: 56
+Тип: variable
+Было: Boolean
+Стало: boolean
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\truststore\_macos.py
+Строка: 79
+Тип: variable
+Было: SecCertificateRef
+Стало: sec_certificate_ref
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\truststore\_macos.py
+Строка: 80
+Тип: variable
+Было: SecPolicyRef
+Стало: sec_policy_ref
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\truststore\_macos.py
+Строка: 81
+Тип: variable
+Было: SecTrustRef
+Стало: sec_trust_ref
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\truststore\_macos.py
+Строка: 82
+Тип: variable
+Было: SecTrustResultType
+Стало: sec_trust_result_type
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\truststore\_macos.py
+Строка: 83
+Тип: variable
+Было: SecTrustOptionFlags
+Стало: sec_trust_option_flags
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\truststore\_windows.py
+Строка: 245
+Тип: variable
+Было: CertCreateCertificateChainEngine
+Стало: cert_create_certificate_chain_engine
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\truststore\_windows.py
+Строка: 252
+Тип: variable
+Было: CertOpenStore
+Стало: cert_open_store
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\truststore\_windows.py
+Строка: 257
+Тип: variable
+Было: CertAddEncodedCertificateToStore
+Стало: cert_add_encoded_certificate_to_store
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\truststore\_windows.py
+Строка: 268
+Тип: variable
+Было: CertCreateCertificateContext
+Стало: cert_create_certificate_context
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\truststore\_windows.py
+Строка: 273
+Тип: variable
+Было: CertGetCertificateChain
+Стало: cert_get_certificate_chain
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\truststore\_windows.py
+Строка: 287
+Тип: variable
+Было: CertVerifyCertificateChainPolicy
+Стало: cert_verify_certificate_chain_policy
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\truststore\_windows.py
+Строка: 296
+Тип: variable
+Было: CertCloseStore
+Стало: cert_close_store
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\truststore\_windows.py
+Строка: 301
+Тип: variable
+Было: CertFreeCertificateChain
+Стало: cert_free_certificate_chain
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\truststore\_windows.py
+Строка: 304
+Тип: variable
+Было: CertFreeCertificateContext
+Стало: cert_free_certificate_context
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\truststore\_windows.py
+Строка: 307
+Тип: variable
+Было: CertFreeCertificateChainEngine
+Стало: cert_free_certificate_chain_engine
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\truststore\_windows.py
+Строка: 310
+Тип: variable
+Было: FormatMessageW
+Стало: format_message_w
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\connection.py
+Строка: 20
+Тип: variable
+Было: BaseSSLError
+Стало: base_s_s_l_error
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\connection.py
+Строка: 30
+Тип: variable
+Было: ConnectionError
+Стало: connection_error
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\connection.py
+Строка: 39
+Тип: variable
+Было: BrokenPipeError
+Стало: broken_pipe_error
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\connection.py
+Строка: 572
+Тип: variable
+Было: VerifiedHTTPSConnection
+Стало: verified_h_t_t_p_s_connection
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\connectionpool.py
+Строка: 81
+Тип: variable
+Было: QueueCls
+Стало: queue_cls
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\connectionpool.py
+Строка: 174
+Тип: variable
+Было: ConnectionCls
+Стало: connection_cls
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\connectionpool.py
+Строка: 175
+Тип: variable
+Было: ResponseCls
+Стало: response_cls
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\connectionpool.py
+Строка: 931
+Тип: variable
+Было: ConnectionCls
+Стало: connection_cls
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\exceptions.py
+Строка: 71
+Тип: variable
+Было: ConnectionError
+Стало: connection_error
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\poolmanager.py
+Строка: 73
+Тип: variable
+Было: PoolKey
+Стало: pool_key
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\poolmanager.py
+Строка: 76
+Тип: variable
+Было: ProxyConfig
+Стало: proxy_config
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\_collections.py
+Строка: 45
+Тип: variable
+Было: ContainerCls
+Стало: container_cls
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\contrib\socks.py
+Строка: 152
+Тип: variable
+Было: ConnectionCls
+Стало: connection_cls
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\contrib\socks.py
+Строка: 156
+Тип: variable
+Было: ConnectionCls
+Стало: connection_cls
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\packages\six.py
+Строка: 607
+Тип: variable
+Было: Iterator
+Стало: iterator
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\packages\six.py
+Строка: 702
+Тип: variable
+Было: StringIO
+Стало: string_i_o
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\packages\six.py
+Строка: 703
+Тип: variable
+Было: BytesIO
+Стало: bytes_i_o
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\packages\six.py
+Строка: 736
+Тип: variable
+Было: StringIO
+Стало: string_i_o
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\util\retry.py
+Строка: 26
+Тип: variable
+Было: RequestHistory
+Стало: request_history
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\util\retry.py
+Строка: 37
+Тип: function
+Было: DEFAULT_METHOD_WHITELIST
+Стало: d_e_f_a_u_l_t__m_e_t_h_o_d__w_h_i_t_e_l_i_s_t
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\util\retry.py
+Строка: 46
+Тип: function
+Было: DEFAULT_METHOD_WHITELIST
+Стало: d_e_f_a_u_l_t__m_e_t_h_o_d__w_h_i_t_e_l_i_s_t
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\util\retry.py
+Строка: 55
+Тип: function
+Было: DEFAULT_REDIRECT_HEADERS_BLACKLIST
+Стало: d_e_f_a_u_l_t__r_e_d_i_r_e_c_t__h_e_a_d_e_r_s__b_l_a_c_k_l_i_s_t
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\util\retry.py
+Строка: 64
+Тип: function
+Было: DEFAULT_REDIRECT_HEADERS_BLACKLIST
+Стало: d_e_f_a_u_l_t__r_e_d_i_r_e_c_t__h_e_a_d_e_r_s__b_l_a_c_k_l_i_s_t
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\util\retry.py
+Строка: 73
+Тип: function
+Было: BACKOFF_MAX
+Стало: b_a_c_k_o_f_f__m_a_x
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\util\retry.py
+Строка: 82
+Тип: function
+Было: BACKOFF_MAX
+Стало: b_a_c_k_o_f_f__m_a_x
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\bindings.py
+Строка: 81
+Тип: variable
+Было: Security
+Стало: security
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\bindings.py
+Строка: 84
+Тип: variable
+Было: CoreFoundation
+Стало: core_foundation
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\bindings.py
+Строка: 90
+Тип: variable
+Было: Boolean
+Стало: boolean
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\bindings.py
+Строка: 116
+Тип: variable
+Было: SecCertificateRef
+Стало: sec_certificate_ref
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\bindings.py
+Строка: 117
+Тип: variable
+Было: SecExternalFormat
+Стало: sec_external_format
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\bindings.py
+Строка: 118
+Тип: variable
+Было: SecExternalItemType
+Стало: sec_external_item_type
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\bindings.py
+Строка: 119
+Тип: variable
+Было: SecIdentityRef
+Стало: sec_identity_ref
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\bindings.py
+Строка: 120
+Тип: variable
+Было: SecItemImportExportFlags
+Стало: sec_item_import_export_flags
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\bindings.py
+Строка: 121
+Тип: variable
+Было: SecItemImportExportKeyParameters
+Стало: sec_item_import_export_key_parameters
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\bindings.py
+Строка: 122
+Тип: variable
+Было: SecKeychainRef
+Стало: sec_keychain_ref
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\bindings.py
+Строка: 126
+Тип: variable
+Было: SecTrustRef
+Стало: sec_trust_ref
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\bindings.py
+Строка: 128
+Тип: variable
+Было: SecTrustResultType
+Стало: sec_trust_result_type
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\bindings.py
+Строка: 129
+Тип: variable
+Было: SecTrustOptionFlags
+Стало: sec_trust_option_flags
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\resolvelib\resolvers\abstract.py
+Строка: 19
+Тип: variable
+Было: Result
+Стало: result
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\lexers\python.py
+Строка: 413
+Тип: variable
+Было: Python3Lexer
+Стало: python3_lexer
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\pygments\lexers\python.py
+Строка: 779
+Тип: variable
+Было: Python3TracebackLexer
+Стало: python3_traceback_lexer
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_vendor\packaging\licenses\__init__.py
+Строка: 47
+Тип: variable
+Было: NormalizedLicenseExpression
+Стало: normalized_license_expression
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\cli\progress_bars.py
+Строка: 27
+Тип: variable
+Было: ProgressRenderer
+Стало: progress_renderer
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\cli\progress_bars.py
+Строка: 28
+Тип: variable
+Было: BarType
+Стало: bar_type
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\commands\__init__.py
+Строка: 13
+Тип: variable
+Было: CommandInfo
+Стало: command_info
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\index\collector.py
+Строка: 43
+Тип: variable
+Было: ResponseHeaders
+Стало: response_headers
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\index\package_finder.py
+Строка: 55
+Тип: variable
+Было: BuildTag
+Стало: build_tag
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\index\package_finder.py
+Строка: 56
+Тип: variable
+Было: CandidateSortingKey
+Стало: candidate_sorting_key
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\index\sources.py
+Строка: 25
+Тип: variable
+Было: FoundCandidates
+Стало: found_candidates
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\index\sources.py
+Строка: 26
+Тип: variable
+Было: FoundLinks
+Стало: found_links
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\index\sources.py
+Строка: 27
+Тип: variable
+Было: CandidatesFromPage
+Стало: candidates_from_page
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\index\sources.py
+Строка: 28
+Тип: variable
+Было: PageValidator
+Стало: page_validator
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\metadata\base.py
+Строка: 39
+Тип: variable
+Было: InfoPath
+Стало: info_path
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\models\direct_url.py
+Строка: 158
+Тип: variable
+Было: InfoType
+Стало: info_type
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\models\index.py
+Строка: 25
+Тип: variable
+Было: PyPI
+Стало: py_p_i
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\models\index.py
+Строка: 26
+Тип: variable
+Было: TestPyPI
+Стало: test_py_p_i
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\network\auth.py
+Строка: 188
+Тип: function
+Было: PATH_as_shutil_which_determines_it
+Стало: p_a_t_h_as_shutil_which_determines_it
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\network\session.py
+Строка: 59
+Тип: variable
+Было: SecureOrigin
+Стало: secure_origin
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\operations\check.py
+Строка: 34
+Тип: variable
+Было: PackageSet
+Стало: package_set
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\operations\check.py
+Строка: 35
+Тип: variable
+Было: Missing
+Стало: missing
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\operations\check.py
+Строка: 36
+Тип: variable
+Было: Conflicting
+Стало: conflicting
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\operations\check.py
+Строка: 38
+Тип: variable
+Было: MissingDict
+Стало: missing_dict
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\operations\check.py
+Строка: 39
+Тип: variable
+Было: ConflictingDict
+Стало: conflicting_dict
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\operations\check.py
+Строка: 40
+Тип: variable
+Было: CheckResult
+Стало: check_result
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\operations\check.py
+Строка: 41
+Тип: variable
+Было: ConflictDetails
+Стало: conflict_details
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\req\req_file.py
+Строка: 36
+Тип: variable
+Было: ReqFileLines
+Стало: req_file_lines
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\req\req_file.py
+Строка: 38
+Тип: variable
+Было: LineParser
+Стало: line_parser
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\resolution\base.py
+Строка: 6
+Тип: variable
+Было: InstallRequirementProvider
+Стало: install_requirement_provider
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\utils\misc.py
+Строка: 61
+Тип: variable
+Было: ExcInfo
+Стало: exc_info
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\utils\misc.py
+Строка: 62
+Тип: variable
+Было: VersionInfo
+Стало: version_info
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\utils\misc.py
+Строка: 63
+Тип: variable
+Было: NetlocTuple
+Стало: netloc_tuple
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\utils\misc.py
+Строка: 64
+Тип: variable
+Было: OnExc
+Стало: on_exc
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\utils\misc.py
+Строка: 65
+Тип: variable
+Было: OnErr
+Стало: on_err
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\utils\subprocess.py
+Строка: 17
+Тип: variable
+Было: CommandArgs
+Стало: command_args
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\vcs\versioncontrol.py
+Строка: 42
+Тип: variable
+Было: AuthInfo
+Стало: auth_info
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\resolution\legacy\resolver.py
+Строка: 55
+Тип: variable
+Было: DiscoveredDependencies
+Стало: discovered_dependencies
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\resolution\resolvelib\base.py
+Строка: 15
+Тип: variable
+Было: CandidateLookup
+Стало: candidate_lookup
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\resolution\resolvelib\candidates.py
+Строка: 38
+Тип: variable
+Было: BaseCandidate
+Стало: base_candidate
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\resolution\resolvelib\factory.py
+Строка: 80
+Тип: variable
+Было: Cache
+Стало: cache
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\resolution\resolvelib\found_candidates.py
+Строка: 25
+Тип: variable
+Было: IndexCandidateInfo
+Стало: index_candidate_info
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\resolution\resolvelib\provider.py
+Строка: 24
+Тип: variable
+Было: PreferenceInformation
+Стало: preference_information
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\resolution\resolvelib\resolver.py
+Строка: 35
+Тип: variable
+Было: Result
+Стало: result
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\operations\install\wheel.py
+Строка: 68
+Тип: variable
+Было: RecordPath
+Стало: record_path
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\operations\install\wheel.py
+Строка: 69
+Тип: variable
+Было: InstalledCSVRow
+Стало: installed_c_s_v_row
+----------------------------------------
+Файл: .venv\Lib\site-packages\pip\_internal\metadata\importlib\_envs.py
+Строка: 53
+Тип: variable
+Было: FoundResult
+Стало: found_result
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\tests\ansitowin32_test.py
+Строка: 264
+Тип: variable
+Было: SetConsoleMode
+Стало: set_console_mode
+----------------------------------------
+Файл: .venv\Lib\site-packages\colorama\tests\ansitowin32_test.py
+Строка: 283
+Тип: variable
+Было: SetConsoleMode
+Стало: set_console_mode
+----------------------------------------

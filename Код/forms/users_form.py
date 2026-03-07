@@ -14,17 +14,14 @@ class UsersForm:
         self.parent_window = parent_window
         self.root.title("Пользователи системы — АвтоТранс")
         self.root.geometry("900x600")
+        self.root.resizable(True, True)
         self._create_widgets()
         self._load_users()
     
     def _create_widgets(self):
         """Создать элементы интерфейса."""
         # Заголовок
-        tk.Label(
-            self.root,
-            text="Список пользователей",
-            font=("Arial", 16, "bold")
-        ).pack(pady=15)
+        tk.Label(self.root, text="Список пользователей", font=("Arial", 16, "bold")).pack(pady=15)
         
         # Поиск и фильтр
         control_frame = tk.Frame(self.root)
@@ -62,59 +59,61 @@ class UsersForm:
         self.tree.pack(fill=tk.BOTH, expand=True, padx=10, pady=10)
         
         # Кнопка "Назад"
-        tk.Button(
-            self.root,
-            text="⬅️ Назад в меню",
-            command=self._go_back,
-            width=20,
-            font=("Arial", 10)
-        ).pack(pady=10)
+        tk.Button(self.root, text="⬅️ Назад в меню", command=self._go_back, width=20, font=("Arial", 10)).pack(pady=10)
     
     def _load_users(self):
         """Загрузить пользователей из базы данных."""
-        for item in self.tree.get_children():
-            self.tree.delete(item)
-        
-        connection = get_connection()
-        cursor = connection.cursor()
-        cursor.execute("SELECT user_id, fio, phone, login, type FROM users ORDER BY fio")
-        
-        for row in cursor.fetchall():
-            values = [v if v is not None else '' for v in row]
-            self.tree.insert('', tk.END, values=values)
-        
-        connection.close()
+        try:
+            for item in self.tree.get_children():
+                self.tree.delete(item)
+            
+            connection = get_connection()
+            cursor = connection.cursor()
+            cursor.execute("SELECT user_id, fio, phone, login, type FROM users ORDER BY fio")
+            
+            for row in cursor.fetchall():
+                values = [v if v is not None else '' for v in row]
+                self.tree.insert('', tk.END, values=values)
+            
+            connection.close()
+        except Exception as e:
+            messagebox.showerror("Ошибка БД", f"Не удалось загрузить пользователей:\n{e}")
     
     def _filter_users(self, event=None):
-        """Фильтрация списка пользователей."""
+        """Фильтрация списка пользователей по поиску и роли."""
         search_text = self.search_var.get().strip().lower()
         role_filter = self.role_var.get()
         
-        for item in self.tree.get_children():
-            self.tree.delete(item)
-        
-        connection = get_connection()
-        cursor = connection.cursor()
-        
-        query = "SELECT user_id, fio, phone, login, type FROM users WHERE 1=1"
-        params = []
-        
-        if search_text:
-            query += " AND (LOWER(fio) LIKE ? OR LOWER(login) LIKE ?)"
-            params.extend([f'%{search_text}%', f'%{search_text}%'])
-        
-        if role_filter != "Все":
-            query += " AND type = ?"
-            params.append(role_filter)
-        
-        query += " ORDER BY fio"
-        cursor.execute(query, params)
-        
-        for row in cursor.fetchall():
-            values = [v if v is not None else '' for v in row]
-            self.tree.insert('', tk.END, values=values)
-        
-        connection.close()
+        try:
+            for item in self.tree.get_children():
+                self.tree.delete(item)
+            
+            connection = get_connection()
+            cursor = connection.cursor()
+            
+            query = "SELECT user_id, fio, phone, login, type FROM users WHERE 1=1"
+            params = []
+            
+            # Поиск по ФИО, логину или телефону
+            if search_text:
+                query += " AND (LOWER(fio) LIKE ? OR LOWER(login) LIKE ? OR phone LIKE ?)"
+                params.extend([f'%{search_text}%', f'%{search_text}%', f'%{search_text}%'])
+            
+            # Фильтр по роли
+            if role_filter != "Все":
+                query += " AND type = ?"
+                params.append(role_filter)
+            
+            query += " ORDER BY fio"
+            cursor.execute(query, params)
+            
+            for row in cursor.fetchall():
+                values = [v if v is not None else '' for v in row]
+                self.tree.insert('', tk.END, values=values)
+            
+            connection.close()
+        except Exception as e:
+            messagebox.showerror("Ошибка фильтрации", f"Не удалось отфильтровать:\n{e}")
     
     def _go_back(self):
         """Вернуться в главное меню."""
